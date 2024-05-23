@@ -1,8 +1,12 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ChangeMaterial" preserve="all" />
     <type fullname="GameManager" preserve="all" />
     <type fullname="Loading" preserve="all" />
+    <type fullname="LoadMultipleAssets" preserve="all" />
+    <type fullname="MaterialData" preserve="all" />
     <type fullname="SceneLoader" preserve="all" />
+    <type fullname="SceneMaterial" preserve="all" />
     <type fullname="VRCamera" preserve="all" />
   </assembly>
   <assembly fullname="RTLTMPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
