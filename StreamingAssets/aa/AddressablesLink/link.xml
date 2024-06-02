@@ -3,7 +3,6 @@
     <type fullname="FixArabic3DText" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AnalyticRecord" preserve="all" />
     <type fullname="ButtonTimeout" preserve="all" />
     <type fullname="ChangeMaterial" preserve="all" />
     <type fullname="GameManager" preserve="all" />
@@ -12,7 +11,6 @@
     <type fullname="MaterialData" preserve="all" />
     <type fullname="SceneLoader" preserve="all" />
     <type fullname="SceneMaterial" preserve="all" />
-    <type fullname="UGS_Analytics" preserve="all" />
     <type fullname="VRCamera" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
